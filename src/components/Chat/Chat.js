@@ -9,7 +9,7 @@ import InfoBar from '../InfoBar/InfoBar';
 import Input from '../Input/Input';
 
 import './Chat.css';
-const ENDPOINT = 'http://localhost:5000';
+const ENDPOINT = 'https://reactchat-ijnk.onrender.com/';
 
 
 let socket;
